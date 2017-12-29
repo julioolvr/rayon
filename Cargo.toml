@@ -28,6 +28,6 @@ default-features = false
 compiletest_rs = "0.3"
 docopt = "0.8"
 lazy_static = "1"
-rand = "0.3"
+rand = "0.4.1"
 serde = "1"
 serde_derive = "1"
